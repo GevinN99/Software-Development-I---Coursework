@@ -1,8 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.
-# Any code taken from other sources is referenced within my code soluƟon.
-# Student ID: w20519902
-# Date: 14/12/2023
-
 from graphics import *  # Import the graphics library
 
 TOTAL_CREDITS = 120  # Total of the pass credits
